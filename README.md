@@ -11,3 +11,42 @@
 <p>State Farm hopes to improve these alarming statistics, and better insure their customers, by testing whether dashboard cameras can automatically detect drivers engaging in distracted behaviors. Given a dataset of 2D dashboard camera images, State Farm is challenging Kagglers to classify each driver's behavior. Are they driving attentively, wearing their seatbelt, or taking a selfie with their friends in the backseat
 </p>
 
+<h3>Overview</h3>
+The project will analyze this dataset through three different classical CNN architectures. The relevant structure will contain the following information:
+
+Dataset_process and Hyperparameter selection:
+
+<ul>
+  <li>Dataset_process and Hyperparameter selection</li>
+  <li>Model
+    <ol>
+      <li>VGG16
+        <ol>
+          <li>Introduction</li>
+          <li>Evaluation</li>
+          <li>Confusion Matrix</li>
+          <li>Filters & Feature Maps Visualization</li>
+        </ol>
+      </li>
+      <li>ResNet34
+        <ol>
+          <li>Introduction</li>
+          <li>Evaluation</li>
+          <li>Confusion Matrix</li>
+          <li>Filters & Feature Maps Visualization</li>
+        </ol>
+      </li>
+      <li>Inception V1(GoogLeNet)
+        <ol>
+          <li>Introduction</li>
+          <li>Evaluation</li>
+          <li>Confusion Matrix</li>
+          <li>Filters & Feature Maps Visualization</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  
+  <li>Conclusion</li>
+</ul>
+
